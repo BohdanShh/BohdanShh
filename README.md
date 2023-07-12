@@ -43,18 +43,18 @@
   </tr>
   <tr style="display: flex;">
     <td width='50%'>
-      <h2 align='center'>Furniture Shop</h2>
+      <h2 align='center'>Password Generator</h2>
       <div align='center'>  
-        <a href="https://maksym-tkachuk.github.io/furniture-shop/" alt="furniture-shop">
-          <img  src='images/furniture-shop.png' alt='furniture-shop'/>
+        <a href="https://password-generator-app2023.netlify.app/" alt="Pass Generator">
+          <img  src='images/pass_generator.png' alt='Pass Generator'/>
         </a>
         <br>
         <br>
         <p>
-         <a href="https://github.com/Maksym-Tkachuk/furniture-shop" alt="furniture-shop">
+         <a href="https://password-generator-app2023.netlify.app/" alt="Pass Generator">
            <img width='70' height='25' src="images/repo.png" alt='repo'/>
           </a>
-          <a href='https://maksym-tkachuk.github.io/furniture-shop/'>
+          <a href='https://password-generator-app2023.netlify.app/'>
             <img width='50' height='25' src="images/view.png" alt='view'/>
           </a>
             <img width='70' height='25' src="images/completed.png" alt='completed'/>
