@@ -43,7 +43,7 @@
   </tr>
 </table>
 
-<h1 align="center">Projects</h1>
+<h2 align="center">Projects</h2>
 
 <table>
 <tr style="display: flex;">
