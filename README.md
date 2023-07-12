@@ -3,45 +3,45 @@
 <table align="center">
   <tr>
     <td align="center" height="70" width="70">
-      <img src="icons/html5.svg" alt="HTML" width="40" height="40"/>
+      <img src="images/icons/html5.svg" alt="HTML" width="40" height="40"/>
       <br/>HTML5
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/css3.svg" alt="CSS3" width="40" height="40"/>
+      <img src="images/icons/css3.svg" alt="CSS3" width="40" height="40"/>
       <br/>CSS3
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
+      <img src="images/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
       <br/>JavaScript
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
+      <img src="images/icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
       <br/>TypeScript
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/react.svg" alt="React" width="40" height="40"/>
+      <img src="images/icons/react.svg" alt="React" width="40" height="40"/>
       <br/>React
     </td>
   </tr>
   <tr>
     <td align="center" height="70" width="70">
-      <img src="icons/next.svg" alt="React" width="40" height="40"/>
+      <img src="images/icons/next.svg" alt="React" width="40" height="40"/>
       <br/>Next.js
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/react.svg" alt="React" width="40" height="40"/>
+      <img src="images/icons/react.svg" alt="React" width="40" height="40"/>
       <br/>React Native
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/redux.svg" alt="Redux" width="40" height="40"/>
+      <img src="images/icons/redux.svg" alt="Redux" width="40" height="40"/>
       <br/>Redux
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/styled-components.svg" alt="Styled Components" height="40"/>
+      <img src="images/icons/styled-components.svg" alt="Styled Components" height="40"/>
       <br/>Styled Components
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/sass.svg" alt="SASS" width="40" height="40"/>
+      <img src="images/icons/sass.svg" alt="SASS" width="40" height="40"/>
       <br/>SASS
     </td>
   </tr>
