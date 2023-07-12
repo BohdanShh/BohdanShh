@@ -6,7 +6,7 @@
       <h2 align='center'>Training Club</h2>
       <div align='center'>  
         <a href="https://trainingclub.team/" alt="Training Club">
-          <img  src='images/trainingClub.png' alt='Training_Club'/>
+          <img  src='images/training_club.png' alt='Training Club'/>
         </a>
         <br>
         <br>
