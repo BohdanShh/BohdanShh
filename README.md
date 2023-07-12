@@ -14,7 +14,7 @@
           <a href='https://trainingclub.team/'>
             <img width='50' height='25' src="images/view.png" alt='view'/>
           </a>
-            <img width='70' height='25' src="images/inProgress.png" alt='inProgress'/>
+            <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
         </p>
         <p><strong><i>Frontend: </i> TypeScript, React, Material UI, React Query, React Hook Form </strong></p>
         <p><strong><i>Backend: </i> Node.js, Express, Mongodb, Mongoose, TypeScript, Firebase, AWS </strong></p>
