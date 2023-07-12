@@ -59,7 +59,7 @@
           </a>
             <img width='70' height='25' src="images/completed.png" alt='completed'/>
         </p>
-        <p><strong><i>Frontend: </i> TypeScript, React, Ant Design, Redux Toolkit, Formik, SCSS </strong></p>
+        <p><strong><i>Frontend: </i> TypeScript, React, Redux, CSS Modules </strong></p>
       </div>
     </td>
        <td width='50%'>
