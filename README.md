@@ -63,15 +63,15 @@
       </div>
     </td>
        <td width='50%'>
-      <h2 align='center'>School</h2>
+      <h2 align='center'>Tic Tac Toe</h2>
       <div align='center'>  
-        <a href="https://maksym-tkachuk.github.io/school/" alt="School">
-          <img  src='images/school.png' alt='School'/>
+        <a href="https://maksym-tkachuk.github.io/school/" alt="Tic Tac Toe">
+          <img  src='images/tic_tac_toe.png' alt='Tic Tac Toe'/>
         </a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/Maksym-Tkachuk/school" alt="school">
+          <a href="https://github.com/Maksym-Tkachuk/school" alt="Tic Tac Toe">
            <img width='70' height='25' src="images/repo.png" alt='repo'/>
           </a>
           <a href='https://maksym-tkachuk.github.io/school/'>
@@ -79,7 +79,7 @@
           </a>
             <img width='70' height='25' src="images/completed.png" alt='completed'/>
         </p>
-        <p><strong><i>Frontend: </i> HTML, CSS, JavaScript, jQuery </strong></p>
+        <p><strong><i>Frontend: </i>React, Redux, TypeScript, TailwindCSS</strong></p>
       </div>
     </td>
   </tr>
