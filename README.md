@@ -33,6 +33,10 @@
       <br/>Redux
     </td>
     <td align="center" height="70" width="70">
+      <img src="images/icons/graphql.svg" alt="JavaScript" width="40" height="40"/>
+      <br/>GraphQL
+    </td>
+    <td align="center" height="70" width="70">
       <img src="images/icons/styled-components.svg" alt="Styled Components" height="40"/>
       <br/>Styled Components
     </td>
