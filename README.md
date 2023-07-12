@@ -75,8 +75,8 @@
           </a>
             <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
         </p>
-        <p><strong><i>Frontend: </i> TypeScript, React, Material UI, React Query, React Hook Form </strong></p>
-        <p><strong><i>Backend: </i> Node.js, Express, Mongodb, Mongoose, TypeScript, Firebase, AWS </strong></p>
+        <p><strong><i>Fron-end: </i> TypeScript, React, Material UI, React Query, React Hook Form </strong></p>
+        <p><strong><i>Back-end: </i> Node.js, Express, Mongodb, Mongoose, TypeScript, Firebase, AWS </strong></p>
       </div>
     </td>
       <td  width='50%'>
@@ -93,7 +93,7 @@
           </a>
             <img width='70' height='25' src="images/completed.png" alt='completed'/>
         </p>
-        <p><strong><i>Frontend: </i>React, TypeScript, Redux, TailwindCSS, Firebase</strong></p>
+        <p><strong><i>Front-end: </i>React, TypeScript, Redux, TailwindCSS, Firebase</strong></p>
         <br>
         <br>
         <br>  
@@ -115,7 +115,7 @@
           </a>
             <img width='70' height='25' src="images/completed.png" alt='completed'/>
         </p>
-        <p><strong><i>Frontend: </i> TypeScript, React, Redux, CSS Modules </strong></p>
+        <p><strong><i>Front-end: </i> TypeScript, React, Redux, CSS Modules </strong></p>
       </div>
     </td>
        <td width='50%'>
@@ -132,7 +132,7 @@
           </a>
             <img width='70' height='25' src="images/completed.png" alt='completed'/>
         </p>
-        <p><strong><i>Frontend: </i>React, Redux, TypeScript, TailwindCSS</strong></p>
+        <p><strong><i>Front-end: </i>React, Redux, TypeScript, TailwindCSS</strong></p>
       </div>
     </td>
   </tr>
