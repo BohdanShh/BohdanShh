@@ -21,20 +21,20 @@
       </div>
     </td>
       <td  width='50%'>
-      <h2 align='center'>SWIPI</h2>
+      <h2 align='center'>Platzi Fake Store</h2>
       <div align='center'>  
-        <a href="https://swipi.midstem.net/">
-          <img   src='images/swipi.png' alt='Swipi'/>
+        <a href="https://fake-store-app2023.netlify.app">
+          <img   src='images/platzi_fake_store.png' alt='Platzi Fake Store'/>
         </a>
         <br>
         <br>
         <p>
-          <a href='https://swipi.midstem.net/' alt="Swipi">
+          <a href='https://fake-store-app2023.netlify.app' alt="Platzi Fake Store">
             <img width='50' height='25'  src="images/view.png" alt='view'/>
           </a>
             <img width='70' height='25' src="images/completed.png" alt='completed'/>
         </p>
-        <p><strong><i>Frontend: </i>React, TypeScript, Next JS, Chakra UI, Styled System</strong></p>
+        <p><strong><i>Frontend: </i>React, TypeScript, Redux, TailwindCSS, Firebase</strong></p>
         <br>
         <br>
         <br>  
