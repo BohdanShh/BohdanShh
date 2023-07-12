@@ -51,9 +51,6 @@
         <br>
         <br>
         <p>
-         <a href="https://password-generator-app2023.netlify.app/" alt="Pass Generator">
-           <img width='70' height='25' src="images/repo.png" alt='repo'/>
-          </a>
           <a href='https://password-generator-app2023.netlify.app/'>
             <img width='50' height='25' src="images/view.png" alt='view'/>
           </a>
@@ -65,16 +62,13 @@
        <td width='50%'>
       <h2 align='center'>Tic Tac Toe</h2>
       <div align='center'>  
-        <a href="https://maksym-tkachuk.github.io/school/" alt="Tic Tac Toe">
+        <a href="https://tic-tac-toe-app2023.netlify.app/" alt="Tic Tac Toe">
           <img  src='images/tic_tac_toe.png' alt='Tic Tac Toe'/>
         </a>
         <br>
         <br>
         <p>
-          <a href="https://github.com/Maksym-Tkachuk/school" alt="Tic Tac Toe">
-           <img width='70' height='25' src="images/repo.png" alt='repo'/>
-          </a>
-          <a href='https://maksym-tkachuk.github.io/school/'>
+          <a href='https://tic-tac-toe-app2023.netlify.app/'>
             <img width='50' height='25' src="images/view.png" alt='view'/>
           </a>
             <img width='70' height='25' src="images/completed.png" alt='completed'/>
