@@ -1,5 +1,16 @@
-<h3 align='center'>🏝️ Front End</h3>
-
+<h1 align='center'>👋 Hi there! I'm Bogdan - Front-end developer</h1>
+<br>
+<p>
+  My name is Bogdan, I am a 2nd year student of National Aerospace 
+  University - Kharkiv Aviation Institute.
+  My goal is to work and develop in the field of front-end development, so I 
+  am constantly learning new technologies and development methods in 
+  order to create better code and improve user experience.
+  I am very motivated and ready to work hard to improve my skills and 
+  learn new technologies in front-end development.
+</p>
+<br>
+<h2 align='center'>💻 My technical stack</h2>
 <table align="center">
   <tr>
     <td align="center" height="70" width="70">
@@ -46,9 +57,8 @@
     </td>
   </tr>
 </table>
-
+<br>
 <h2 align="center">Projects</h2>
-
 <table>
 <tr style="display: flex;">
     <td width='50%'>
