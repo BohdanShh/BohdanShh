@@ -1,7 +1,7 @@
-<h1 align='center'>👋 Hi there! I'm Bogdan - Front-end developer</h1>
+<h1 align='center'>👋 Hi there! I'm Bohdan - Front-end developer</h1>
 <br>
 <p>
-  My name is Bogdan, I am a 2nd year student of National Aerospace 
+  My name is Bohdan, I am a 2nd year student of National Aerospace 
   University - Kharkiv Aviation Institute.
   My goal is to work and develop in the field of front-end development, so I 
   am constantly learning new technologies and development methods in 
