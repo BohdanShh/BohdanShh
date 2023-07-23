@@ -70,7 +70,7 @@
       <br/>Express.js
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/postgres.svg" alt="PostgreSQL" width="40" height="40"/>
+      <img src="images/icons/mongodb.svg" alt="PostgreSQL" width="40" height="40"/>
       <br/>MongoDB
     </td>
   </tr>
