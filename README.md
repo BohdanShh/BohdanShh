@@ -62,11 +62,11 @@
 <table align="center">
   <tr>
     <td align="center" height="70" width="70">
-      <img src="icons/nodejs.svg" alt="Node.js" width="40" height="40"/>
+      <img src="images/icons/nodejs.svg" alt="Node.js" width="40" height="40"/>
       <br/>Node.js
     </td>
     <td align="center" height="70" width="70">
-      <img src="icons/express.svg" alt="Express" width="40" height="40"/>
+      <img src="images/icons/express.svg" alt="Express" width="40" height="40"/>
       <br/>Express.js
     </td>
     <td align="center" height="70" width="70">
