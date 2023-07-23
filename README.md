@@ -61,7 +61,7 @@
 <h2 align="center">Projects</h2>
 <table>
 <tr style="display: flex;">
-    <td width='50%'>
+    <td width='33.333%'>
       <h2 align='center'>Training Club</h2>
       <div align='center'>  
         <a href="https://trainingclub.team/" alt="Training Club">
@@ -79,7 +79,7 @@
         <p><strong><i>Back-end: </i> Node.js, Express, Mongodb, Mongoose, TypeScript, Firebase, AWS </strong></p>
       </div>
     </td>
-      <td  width='50%'>
+      <td  width='33.333%'>
       <h2 align='center'>Platzi Fake Store</h2>
       <div align='center'>  
         <a href="https://fake-store-app2023.netlify.app">
@@ -99,16 +99,16 @@
         <br>  
       </div>
     </td>
-    <td width='50%'>
-      <h2 align='center'>Training Club</h2>
+    <td width='33.333%'>
+      <h2 align='center'>Mortal Kombat API</h2>
       <div align='center'>  
-        <img  src='images/mk.png' alt='Mortal Kombat'/>
+        <img  src='images/mk.jpg' alt='Mortal Kombat'/>
         <br>
         <br>
         <p>
           <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
         </p>
-        <p><strong><i>Back-end: </i>Node.js, Express, Mongodb, Mongoose, TypeScript</strong></p>
+        <p><strong><i>Back-end: </i>Node.js, Express.js, MongoDB, Mongoose, TypeScript</strong></p>
       </div>
     </td>
   </tr>
