@@ -58,7 +58,7 @@
     </td>
   </tr>
 </table>
-<h3 align='center'>Beck End</h3>
+<h3 align='center'>Beck-end</h3>
 <table align="center">
   <tr>
     <td align="center" height="70" width="70">
