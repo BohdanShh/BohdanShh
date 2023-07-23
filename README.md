@@ -58,6 +58,23 @@
     </td>
   </tr>
 </table>
+<h3 align='center'>Beck End</h3>
+<table align="center">
+  <tr>
+    <td align="center" height="70" width="70">
+      <img src="icons/nodejs.svg" alt="Node.js" width="40" height="40"/>
+      <br/>Node.js
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/express.svg" alt="Express" width="40" height="40"/>
+      <br/>Express.js
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="icons/postgres.svg" alt="PostgreSQL" width="40" height="40"/>
+      <br/>MongoDB
+    </td>
+  </tr>
+</table>
 <br>
 <h2 align="center">Projects</h2>
 <table>
