@@ -11,6 +11,8 @@
 </p>
 <br>
 <h2 align='center'>💻 My technical stack</h2>
+<br />
+<h3 align='center'>💻 Front-end</h3>
 <table align="center">
   <tr>
     <td align="center" height="70" width="70">
