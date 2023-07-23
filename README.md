@@ -104,7 +104,7 @@
     <td width='50%'>
       <h2 align='center'>Mortal Kombat API</h2>
       <div align='center'>  
-        <img  src='images/mk.jpg' alt='Mortal Kombat'/>
+        <img  src='images/mk.png' alt='Mortal Kombat'/>
         <br>
         <br>
         <p>
