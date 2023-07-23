@@ -99,6 +99,18 @@
         <br>  
       </div>
     </td>
+    <td width='50%'>
+      <h2 align='center'>Training Club</h2>
+      <div align='center'>  
+        <img  src='images/mk.png' alt='Mortal Kombat'/>
+        <br>
+        <br>
+        <p>
+          <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
+        </p>
+        <p><strong><i>Back-end: </i>Node.js, Express, Mongodb, Mongoose, TypeScript</strong></p>
+      </div>
+    </td>
   </tr>
   <tr style="display: flex;">
     <td width='50%'>
