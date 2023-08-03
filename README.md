@@ -79,31 +79,52 @@
 <h2 align="center">Projects</h2>
 <table>
 <tr style="display: flex;">
-    <td width='50%'>
-      <h2 align='center'>Training Club</h2>
-      <div align='center'>  
-        <a href="https://trainingclub.team/" alt="Training Club">
-          <img  src='images/training_club.png' alt='Training Club'/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href='https://trainingclub.team/'>
-            <img width='50' height='25' src="images/view.png" alt='view'/>
-          </a>
-          <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
-          <a href='https://gitlab.com/my-children/TRX_TRAINING'>
-            <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
-          </a>
-        </p>
-        <p><strong><i>Fron-end: </i> TypeScript, React, Material UI, React Query, React Hook Form </strong></p>
-        <p><strong><i>Back-end: </i> Node.js, Express, Mongodb, Mongoose, TypeScript, Firebase, AWS </strong></p>
-      </div>
-    </td>
   <td width='50%'>
-    <h2 align='center'>Mortal Kombat API</h2>
+    <h2 align='center'>Training Club</h2>
     <div align='center'>  
-      <img src='images/mk.png' alt='Mortal Kombat'/>
+      <a href="https://trainingclub.team/" alt="Training Club">
+        <img  src='images/training_club.png' alt='Training Club'/>
+      </a>
+      <br>
+      <br>
+      <p>
+        <a href='https://trainingclub.team/'>
+          <img width='50' height='25' src="images/view.png" alt='view'/>
+        </a>
+        <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
+        <a href='https://gitlab.com/my-children/TRX_TRAINING'>
+          <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
+        </a>
+      </p>
+      <p><strong><i>Fron-end: </i> TypeScript, React, Material UI, React Query, React Hook Form </strong></p>
+      <p><strong><i>Back-end: </i> Node.js, Express, Mongodb, Mongoose, TypeScript, Firebase, AWS </strong></p>
+    </div>
+  </td>
+  <td width='50%'>
+    <h2 align='center'>Training Club</h2>
+    <div align='center'>  
+      <a href="https://trainingclub.team/" alt="Training Club">
+        <img  src='images/training_club.png' alt='Training Club'/>
+      </a>
+      <br>
+      <br>
+      <p>
+        <a href='https://trainingclub.team/'>
+          <img width='50' height='25' src="images/view.png" alt='view'/>
+        </a>
+        <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
+        <a href='https://gitlab.com/my-children/TRX_TRAINING'>
+          <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
+        </a>
+      </p>
+      <p><strong><i>Fron-end: </i> TypeScript, React, Material UI, React Query, React Hook Form </strong></p>
+      <p><strong><i>Back-end: </i> Node.js, Express, Mongodb, Mongoose, TypeScript, Firebase, AWS </strong></p>
+    </div>
+  </td>
+  <td width='50%'>
+    <h2 align='center'>Spotify</h2>
+    <div align='center'>  
+      <img src='images/mk.png' alt='Spotify'/>
       <br>
       <br>
       <p>
@@ -112,11 +133,26 @@
           <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
         </a>
       </p>
-      <p><strong><i>Back-end: </i>Node.js, Express.js, MongoDB, Mongoose, TypeScript</strong></p>
+      <p><strong><i>Front-end: </i>React Native, TypeScript, Firebase</strong></p>
     </div>
   </td>
 </tr>
   <tr style="display: flex;">
+    <td width='50%'>
+      <h2 align='center'>Mortal Kombat API</h2>
+      <div align='center'>  
+        <img src='images/mk.png' alt='Mortal Kombat'/>
+        <br>
+        <br>
+        <p>
+          <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
+          <a href='https://github.com/TeeSSkooo/Mortal-Kombat-API'>
+            <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
+          </a>
+        </p>
+        <p><strong><i>Back-end: </i>Node.js, Express.js, MongoDB, Mongoose, TypeScript</strong></p>
+      </div>
+    </td>
     <td width='50%'>
       <h2 align='center'>Platzi Fake Store</h2>
       <div align='center'>  
