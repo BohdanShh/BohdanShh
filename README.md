@@ -87,14 +87,13 @@
         </a>
         <br>
         <br>
-        <p style='display: flex; align-items: center;'>
+        <p>
           <a href='https://trainingclub.team/'>
             <img width='50' height='25' src="images/view.png" alt='view'/>
           </a>
           <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
           <a href='https://gitlab.com/my-children/TRX_TRAINING'>
             <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
-            <h4>Repo</h4>
           </a>
         </p>
         <p><strong><i>Fron-end: </i> TypeScript, React, Material UI, React Query, React Hook Form </strong></p>
@@ -115,8 +114,7 @@
           </a>
           <img width='70' height='25' src="images/completed.png" alt='completed'/>
           <a href='https://gitlab.com/my-children/TRX_TRAINING'>
-            <div>Repo</div>
-            <img src='images/icons/repo.svg' alt='Repo' />
+            <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
           </a>
         </p>
         <p><strong><i>Front-end: </i>React, TypeScript, Redux, TailwindCSS, Firebase</strong></p>
@@ -136,8 +134,7 @@
         <p>
           <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
           <a href='https://gitlab.com/my-children/TRX_TRAINING'>
-            <div>Repo</div>
-            <img src='images/icons/repo.svg' alt='Repo' />
+            <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
           </a>
         </p>
         <p><strong><i>Back-end: </i>Node.js, Express.js, MongoDB, Mongoose, TypeScript</strong></p>
@@ -157,8 +154,7 @@
           </a>
           <img width='70' height='25' src="images/completed.png" alt='completed'/>
           <a href='https://gitlab.com/my-children/TRX_TRAINING'>
-            <div>Repo</div>
-            <img src='images/icons/repo.svg' alt='Repo' />
+            <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
           </a>
         </p>
         <p><strong><i>Front-end: </i>React, Redux, TypeScript, TailwindCSS</strong></p>
@@ -180,8 +176,7 @@
           </a>
           <img width='70' height='25' src="images/completed.png" alt='completed'/>
           <a href='https://gitlab.com/my-children/TRX_TRAINING'>
-            <div>Repo</div>
-            <img src='images/icons/repo.svg' alt='Repo' />
+            <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
           </a>
         </p>
         <p><strong><i>Front-end: </i> TypeScript, React, Redux, CSS Modules </strong></p>
