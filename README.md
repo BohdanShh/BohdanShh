@@ -93,8 +93,8 @@
           </a>
           <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
           <a href='https://gitlab.com/my-children/TRX_TRAINING'>
-            <div>Repo</div>
-            <img src='images/icons/repo.svg' alt='Repo' />
+            <span>Repo</span>
+            <img src='images/icons/repo.svg' alt='Repo' width='20px' height='20px' />
           </a>
         </p>
         <p><strong><i>Fron-end: </i> TypeScript, React, Material UI, React Query, React Hook Form </strong></p>
