@@ -100,11 +100,11 @@
         <p><strong><i>Back-end: </i> Node.js, Express, Mongodb, Mongoose, TypeScript, Firebase, AWS </strong></p>
       </div>
     </td>
-      <td  width='50%'>
+      <td width='50%'>
       <h2 align='center'>Platzi Fake Store</h2>
       <div align='center'>  
         <a href="https://fake-store-app2023.netlify.app">
-          <img   src='images/platzi_fake_store.png' alt='Platzi Fake Store'/>
+          <img src='images/platzi_fake_store.png' alt='Platzi Fake Store'/>
         </a>
         <br>
         <br>
@@ -113,7 +113,7 @@
             <img width='50' height='25'  src="images/view.png" alt='view'/>
           </a>
           <img width='70' height='25' src="images/completed.png" alt='completed'/>
-          <a href='https://gitlab.com/my-children/TRX_TRAINING'>
+          <a href='https://github.com/TeeSSkooo/Platzi-Fake-Store'>
             <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
           </a>
         </p>
@@ -128,59 +128,16 @@
     <td width='50%'>
       <h2 align='center'>Mortal Kombat API</h2>
       <div align='center'>  
-        <img  src='images/mk.png' alt='Mortal Kombat'/>
+        <img src='images/mk.png' alt='Mortal Kombat'/>
         <br>
         <br>
         <p>
           <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
-          <a href='https://gitlab.com/my-children/TRX_TRAINING'>
+          <a href='https://github.com/TeeSSkooo/Mortal-Kombat-API'>
             <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
           </a>
         </p>
         <p><strong><i>Back-end: </i>Node.js, Express.js, MongoDB, Mongoose, TypeScript</strong></p>
       </div>
     </td>
-    <td width='50%'>
-      <h2 align='center'>Tic Tac Toe</h2>
-      <div align='center'>  
-        <a href="https://tic-tac-toe-app2023.netlify.app/" alt="Tic Tac Toe">
-          <img  src='images/tic_tac_toe.png' alt='Tic Tac Toe'/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href='https://tic-tac-toe-app2023.netlify.app/'>
-            <img width='50' height='25' src="images/view.png" alt='view'/>
-          </a>
-          <img width='70' height='25' src="images/completed.png" alt='completed'/>
-          <a href='https://gitlab.com/my-children/TRX_TRAINING'>
-            <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
-          </a>
-        </p>
-        <p><strong><i>Front-end: </i>React, Redux, TypeScript, TailwindCSS</strong></p>
-      </div>
-    </td>
-  </tr>
-  <tr style="display: flex;">
-    <td width='50%'>
-      <h2 align='center'>Password Generator</h2>
-      <div align='center'>  
-        <a href="https://password-generator-app2023.netlify.app/" alt="Pass Generator">
-          <img  src='images/pass_generator.png' alt='Pass Generator'/>
-        </a>
-        <br>
-        <br>
-        <p>
-          <a href='https://password-generator-app2023.netlify.app/'>
-            <img width='50' height='25' src="images/view.png" alt='view'/>
-          </a>
-          <img width='70' height='25' src="images/completed.png" alt='completed'/>
-          <a href='https://gitlab.com/my-children/TRX_TRAINING'>
-            <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
-          </a>
-        </p>
-        <p><strong><i>Front-end: </i> TypeScript, React, Redux, CSS Modules </strong></p>
-      </div>
-    </td>
-  </tr>
 </table>
