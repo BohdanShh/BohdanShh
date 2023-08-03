@@ -23,6 +23,10 @@
       <br/>CSS3
     </td>
     <td align="center" height="70" width="70">
+      <img src="images/icons/sass.svg" alt="SASS" width="40" height="40"/>
+      <br/>SASS
+    </td>
+    <td align="center" height="70" width="70">
       <img src="images/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
       <br/>JavaScript
     </td>
@@ -51,10 +55,6 @@
     <td align="center" height="70" width="70">
       <img src="images/icons/styled-components.svg" alt="Styled Components" height="40"/>
       <br/>Styled Components
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="images/icons/sass.svg" alt="SASS" width="40" height="40"/>
-      <br/>SASS
     </td>
   </tr>
 </table>
