@@ -100,7 +100,24 @@
         <p><strong><i>Back-end: </i> Node.js, Express, Mongodb, Mongoose, TypeScript, Firebase, AWS </strong></p>
       </div>
     </td>
-      <td width='50%'>
+  <td width='50%'>
+    <h2 align='center'>Mortal Kombat API</h2>
+    <div align='center'>  
+      <img src='images/mk.png' alt='Mortal Kombat'/>
+      <br>
+      <br>
+      <p>
+        <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
+        <a href='https://github.com/TeeSSkooo/Mortal-Kombat-API'>
+          <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
+        </a>
+      </p>
+      <p><strong><i>Back-end: </i>Node.js, Express.js, MongoDB, Mongoose, TypeScript</strong></p>
+    </div>
+  </td>
+</tr>
+  <tr style="display: flex;">
+    <td width='50%'>
       <h2 align='center'>Platzi Fake Store</h2>
       <div align='center'>  
         <a href="https://fake-store-app2023.netlify.app">
@@ -121,23 +138,6 @@
         <br>
         <br>
         <br>  
-      </div>
-    </td>
-  </tr>
-  <tr style="display: flex;">
-    <td width='50%'>
-      <h2 align='center'>Mortal Kombat API</h2>
-      <div align='center'>  
-        <img src='images/mk.png' alt='Mortal Kombat'/>
-        <br>
-        <br>
-        <p>
-          <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
-          <a href='https://github.com/TeeSSkooo/Mortal-Kombat-API'>
-            <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
-          </a>
-        </p>
-        <p><strong><i>Back-end: </i>Node.js, Express.js, MongoDB, Mongoose, TypeScript</strong></p>
       </div>
     </td>
   </tr>
