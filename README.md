@@ -140,4 +140,5 @@
         <p><strong><i>Back-end: </i>Node.js, Express.js, MongoDB, Mongoose, TypeScript</strong></p>
       </div>
     </td>
+  </tr>
 </table>
