@@ -91,7 +91,11 @@
           <a href='https://trainingclub.team/'>
             <img width='50' height='25' src="images/view.png" alt='view'/>
           </a>
-            <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
+          <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
+          <a href='https://gitlab.com/my-children/TRX_TRAINING'>
+            <div>Repo</div>
+            <img src='images/icons/repo.svg' alt='Repo' />
+          </a>
         </p>
         <p><strong><i>Fron-end: </i> TypeScript, React, Material UI, React Query, React Hook Form </strong></p>
         <p><strong><i>Back-end: </i> Node.js, Express, Mongodb, Mongoose, TypeScript, Firebase, AWS </strong></p>
@@ -109,7 +113,11 @@
           <a href='https://fake-store-app2023.netlify.app' alt="Platzi Fake Store">
             <img width='50' height='25'  src="images/view.png" alt='view'/>
           </a>
-            <img width='70' height='25' src="images/completed.png" alt='completed'/>
+          <img width='70' height='25' src="images/completed.png" alt='completed'/>
+          <a href='https://gitlab.com/my-children/TRX_TRAINING'>
+            <div>Repo</div>
+            <img src='images/icons/repo.svg' alt='Repo' />
+          </a>
         </p>
         <p><strong><i>Front-end: </i>React, TypeScript, Redux, TailwindCSS, Firebase</strong></p>
         <br>
@@ -127,6 +135,10 @@
         <br>
         <p>
           <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
+          <a href='https://gitlab.com/my-children/TRX_TRAINING'>
+            <div>Repo</div>
+            <img src='images/icons/repo.svg' alt='Repo' />
+          </a>
         </p>
         <p><strong><i>Back-end: </i>Node.js, Express.js, MongoDB, Mongoose, TypeScript</strong></p>
       </div>
@@ -143,7 +155,11 @@
           <a href='https://tic-tac-toe-app2023.netlify.app/'>
             <img width='50' height='25' src="images/view.png" alt='view'/>
           </a>
-            <img width='70' height='25' src="images/completed.png" alt='completed'/>
+          <img width='70' height='25' src="images/completed.png" alt='completed'/>
+          <a href='https://gitlab.com/my-children/TRX_TRAINING'>
+            <div>Repo</div>
+            <img src='images/icons/repo.svg' alt='Repo' />
+          </a>
         </p>
         <p><strong><i>Front-end: </i>React, Redux, TypeScript, TailwindCSS</strong></p>
       </div>
@@ -162,7 +178,11 @@
           <a href='https://password-generator-app2023.netlify.app/'>
             <img width='50' height='25' src="images/view.png" alt='view'/>
           </a>
-            <img width='70' height='25' src="images/completed.png" alt='completed'/>
+          <img width='70' height='25' src="images/completed.png" alt='completed'/>
+          <a href='https://gitlab.com/my-children/TRX_TRAINING'>
+            <div>Repo</div>
+            <img src='images/icons/repo.svg' alt='Repo' />
+          </a>
         </p>
         <p><strong><i>Front-end: </i> TypeScript, React, Redux, CSS Modules </strong></p>
       </div>
