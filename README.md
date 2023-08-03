@@ -45,12 +45,12 @@
       <br/>React
     </td>
     <td align="center" height="70" width="70">
-      <img src="images/icons/react.svg" alt="JavaScript" width="40" height="40"/>
-      <br/>React Native
-    </td>
-    <td align="center" height="70" width="70">
       <img src="images/icons/next.svg" alt="React" width="40" height="40"/>
       <br/>Next.js
+    </td>
+    <td align="center" height="70" width="70">
+      <img src="images/icons/react.svg" alt="JavaScript" width="40" height="40"/>
+      <br/>React Native
     </td>
     <td align="center" height="70" width="70">
       <img src="images/icons/redux.svg" alt="Redux" width="40" height="40"/>
