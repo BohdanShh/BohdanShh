@@ -87,7 +87,7 @@
         </a>
         <br>
         <br>
-        <p>
+        <p style='display: flex; align-items: center;'>
           <a href='https://trainingclub.team/'>
             <img width='50' height='25' src="images/view.png" alt='view'/>
           </a>
