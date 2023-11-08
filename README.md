@@ -74,7 +74,7 @@ Ready to collaborate effectively with designers and back-end team to achieve opt
 <br>
 <h2 align="center">Projects</h2>
 <table>
-<tr style="display: flex;">
+<tr>
   <td width='100%'>
     <h2 align='center'>Training Club</h2>
     <div align='center'>  
