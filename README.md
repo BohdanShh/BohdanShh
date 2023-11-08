@@ -96,21 +96,6 @@ Ready to collaborate effectively with designers and back-end team to achieve opt
       <p><strong><i>Back-end: </i> Node.js, Express, Mongodb, Mongoose, TypeScript, Firebase, AWS </strong></p>
     </div>
   </td>
-  <td width='50%'>
-    <h2 align='center'>Spotify</h2>
-    <div align='center'>  
-      <img src='images/spotify.png' alt='Spotify'/>
-      <br>
-      <br>
-      <p>
-        <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
-        <a href='https://github.com/Maksym-Tkachuk/spotify'>
-          <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
-        </a>
-      </p>
-      <p><strong><i>Front-end: </i>React Native, TypeScript, Firebase</strong></p>
-    </div>
-  </td>
 </tr>
   <tr style="display: flex;">
     <td width='50%'>
