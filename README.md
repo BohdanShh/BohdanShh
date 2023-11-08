@@ -97,7 +97,7 @@ Ready to collaborate effectively with designers and back-end team to achieve opt
     </div>
   </td>
 </tr>
-  <tr style="display: flex;">
+  <tr>
     <td width='50%'>
       <h2 align='center'>Mortal Kombat API</h2>
       <div align='center'>  
@@ -113,7 +113,7 @@ Ready to collaborate effectively with designers and back-end team to achieve opt
         <p><strong><i>Back-end: </i>Node.js, Express.js, MongoDB, Mongoose, TypeScript</strong></p>
       </div>
     </td>
-    <td width='50%'>
+    <td>
       <h2 align='center'>Platzi Fake Store</h2>
       <div align='center'>  
         <a href="https://fake-store-app2023.netlify.app">
