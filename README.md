@@ -75,7 +75,7 @@ Ready to collaborate effectively with designers and back-end team to achieve opt
 <h2 align="center">Projects</h2>
 <table>
 <tr>
-  <td width='100%'>
+  <td>
     <h2 align='center'>Training Club</h2>
     <div align='center'>  
       <a href="https://trainingclub.team/" alt="Training Club">
@@ -96,30 +96,25 @@ Ready to collaborate effectively with designers and back-end team to achieve opt
       <p><strong><i>Back-end: </i> Node.js, Express, Mongodb, Mongoose, TypeScript, Firebase, AWS </strong></p>
     </div>
   </td>
-</tr>
-  <tr>
-    <td width='100%'>
-      <h2 align='center'>Platzi Fake Store</h2>
-      <div align='center'>  
-        <a href="https://fake-store-app2023.netlify.app">
-          <img src='images/platzi_fake_store.png' alt='Platzi Fake Store'/>
+  <td>
+    <h2 align='center'>Beauty Code Snapshot</h2>
+    <div align='center'>  
+      <a href="https://trainingclub.team/" alt="Training Club">
+        <img  src='images/training_club.png' alt='Training Club'/>
+      </a>
+      <br>
+      <br>
+      <p>
+        <a href='https://trainingclub.team/'>
+          <img width='50' height='25' src="images/view.png" alt='view'/>
         </a>
-        <br>
-        <br>
-        <p>
-          <a href='https://fake-store-app2023.netlify.app' alt="Platzi Fake Store">
-            <img width='50' height='25'  src="images/view.png" alt='view'/>
-          </a>
-          <img width='70' height='25' src="images/completed.png" alt='completed'/>
-          <a href='https://github.com/TeeSSkooo/Platzi-Fake-Store'>
-            <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
-          </a>
-        </p>
-        <p><strong><i>Front-end: </i>React, TypeScript, Redux, TailwindCSS, Firebase</strong></p>
-        <br>
-        <br>
-        <br>  
-      </div>
-    </td>
-  </tr>
+        <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
+        <a href='https://gitlab.com/my-children/TRX_TRAINING'>
+          <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
+        </a>
+      </p>
+      <p><strong><i>Fron-end: </i> TypeScript, React, Next.js, Shadcn-ui, TailwindCSS</strong></p>
+    </div>
+  </td>
+</tr>
 </table>
