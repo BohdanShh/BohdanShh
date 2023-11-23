@@ -111,7 +111,7 @@ Ready to collaborate effectively with designers and back-end team to achieve opt
             <img width='50' height='25' src="images/view.png" alt='view'/>
           </a>
           <img width='70' height='25' src="images/in_progress.png" alt='inProgress'/>
-          <a href='https://gitlab.com/my-children/TRX_TRAINING'>
+          <a href='https://github.com/BohdanShh/Beauty-Code-Snapshot'>
             <img src='images/icons/repo.svg' alt='Repo' width='30' height='30' />
           </a>
         </p>
