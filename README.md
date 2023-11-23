@@ -100,7 +100,7 @@ Ready to collaborate effectively with designers and back-end team to achieve opt
     <h2 align='center'>Beauty Code Snapshot</h2>
     <div align='center'>  
       <a href="https://trainingclub.team/" alt="Training Club">
-        <img  src='images/training_club.png' alt='Training Club'/>
+        <img  src='images/snapshot.png' alt='Training Club' width="450px" />
       </a>
       <br>
       <br>
