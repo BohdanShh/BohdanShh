@@ -75,7 +75,7 @@ Ready to collaborate effectively with designers and back-end team to achieve opt
 <h2 align="center">Projects</h2>
 <table>
 <tr>
-  <td>
+  <td width="50%">
     <h2 align='center'>Training Club</h2>
     <div align='center'>  
       <a href="https://trainingclub.team/" alt="Training Club">
@@ -96,11 +96,11 @@ Ready to collaborate effectively with designers and back-end team to achieve opt
       <p><strong><i>Back-end: </i> Node.js, Express, Mongodb, Mongoose, TypeScript, Firebase, AWS </strong></p>
     </div>
   </td>
-  <td>
+  <td width="50%">
     <h2 align='center'>Beauty Code Snapshot</h2>
     <div align='center'>  
       <a href="https://trainingclub.team/" alt="Training Club">
-        <img  src='images/snapshot.png' alt='Training Club' width="450px" />
+        <img  src='images/snapshot.png' alt='Beauty Code Snapshot' />
       </a>
       <br>
       <br>
