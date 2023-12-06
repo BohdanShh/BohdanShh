@@ -19,8 +19,8 @@ Ready to collaborate effectively with designers and back-end team to achieve opt
       <br/>CSS3
     </td>
     <td align="center" height="70" width="70">
-      <img src="images/icons/sass.svg" alt="SASS" width="40" height="40"/>
-      <br/>SASS
+      <img src="images/icons/sass.svg" alt="SCSS" width="40" height="40"/>
+      <br/>SCSS
     </td>
     <td align="center" height="70" width="70">
       <img src="images/icons/styled-components.svg" alt="Styled Components" height="40"/>
@@ -41,11 +41,11 @@ Ready to collaborate effectively with designers and back-end team to achieve opt
       <br/>React
     </td>
     <td align="center" height="70" width="70">
-      <img src="images/icons/next.svg" alt="React" width="40" height="40"/>
+      <img src="images/icons/next.svg" alt="Next.js" width="40" height="40"/>
       <br/>Next.js
     </td>
     <td align="center" height="70" width="70">
-      <img src="images/icons/react.svg" alt="JavaScript" width="40" height="40"/>
+      <img src="images/icons/react.svg" alt="React Native" width="40" height="40"/>
       <br/>React Native
     </td>
     <td align="center" height="70" width="70">
@@ -62,11 +62,11 @@ Ready to collaborate effectively with designers and back-end team to achieve opt
       <br/>Node.js
     </td>
     <td align="center" height="70" width="70">
-      <img src="images/icons/nest.svg" alt="Express" width="40" height="40"/>
+      <img src="images/icons/nest.svg" alt="NestJS" width="40" height="40"/>
       <br/>NestJS
     </td>
     <td align="center" height="70" width="70">
-      <img src="images/icons/mongodb.svg" alt="PostgreSQL" width="40" height="40"/>
+      <img src="images/icons/mongodb.svg" alt="MongoDBL" width="40" height="40"/>
       <br/>MongoDB
     </td>
   </tr>
