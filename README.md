@@ -62,8 +62,8 @@ Ready to collaborate effectively with designers and back-end team to achieve opt
       <br/>Node.js
     </td>
     <td align="center" height="70" width="70">
-      <img src="images/icons/express.svg" alt="Express" width="40" height="40"/>
-      <br/>Express.js
+      <img src="images/icons/nest.svg" alt="Express" width="40" height="40"/>
+      <br/>NestJS
     </td>
     <td align="center" height="70" width="70">
       <img src="images/icons/mongodb.svg" alt="PostgreSQL" width="40" height="40"/>
