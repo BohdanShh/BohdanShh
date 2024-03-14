@@ -30,8 +30,6 @@ Ready to collaborate effectively with designers and back-end team to achieve opt
       <img src="images/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
       <br/>JavaScript
     </td>
-  </tr>
-  <tr>
     <td align="center" height="70" width="70">
       <img src="images/icons/typescript.svg" alt="TypeScript" width="40" height="40"/>
       <br/>TypeScript
