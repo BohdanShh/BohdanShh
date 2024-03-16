@@ -1,7 +1,7 @@
 <h1 align='center'>👋 Hi there! I'm Bohdan - Front-end developer</h1>
 <br>
 <p>
-  Front-end developer with over 1,5 years of commercial experience and understanding of modern web technologies and development methodologies like TypeScript, React, Next.js, React Native, Scrum, Agile ect. I have a successful experience in creating interactive and intuitive user interfaces. 
+  Front-end developer with about 1,5 years of commercial experience and understanding of modern web technologies and development methodologies like TypeScript, React, Next.js, React Native, Scrum, Agile ect. I have a successful experience in creating interactive and intuitive user interfaces. 
 
 Ready to collaborate effectively with designers and back-end team to achieve optimal results.
 </p>
