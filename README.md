@@ -19,14 +19,6 @@ Ready to collaborate effectively with designers and back-end team to achieve opt
       <br/>CSS3
     </td>
     <td align="center" height="70" width="70">
-      <img src="images/icons/sass.svg" alt="SCSS" width="40" height="40"/>
-      <br/>SCSS
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="images/icons/styled-components.svg" alt="Styled Components" height="40"/>
-      <br/>Styled Components
-    </td>
-    <td align="center" height="70" width="70">
       <img src="images/icons/javascript.svg" alt="JavaScript" width="40" height="40"/>
       <br/>JavaScript
     </td>
@@ -38,13 +30,13 @@ Ready to collaborate effectively with designers and back-end team to achieve opt
       <img src="images/icons/react.svg" alt="React" width="40" height="40"/>
       <br/>React
     </td>
+    <td align="center" height="70" width="120">
+      <img src="images/icons/react.svg" alt="React Native" width="40" height="40"/>
+      <br/>React Native
+    </td>
     <td align="center" height="70" width="70">
       <img src="images/icons/next.svg" alt="Next.js" width="40" height="40"/>
       <br/>Next.js
-    </td>
-    <td align="center" height="70" width="70">
-      <img src="images/icons/react.svg" alt="React Native" width="40" height="40"/>
-      <br/>React Native
     </td>
     <td align="center" height="70" width="70">
       <img src="images/icons/redux.svg" alt="Redux" width="40" height="40"/>
