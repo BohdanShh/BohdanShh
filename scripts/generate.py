@@ -32,6 +32,7 @@ STACK = {
     "mobile/": "React Native · Expo",
     "desktop/": "Electron",
     "tools/": "Docker · Vite · Git · Postman · Prettier · Oxlint · Husky",
+    "ai-tools/": "Claude Code (MCP, Skills, Subagents, Plugins) · Cursor",
 }
 
 # Repository name → description shown in the terminal

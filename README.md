@@ -2,7 +2,7 @@
 
 <!-- One terminal window cut into slices: align="left" stacks them without gaps, and each project and contact row is a link -->
 <p>
-  <img src="./assets/terminal-top.svg" width="100%" align="left" alt="Bohdan Shemyhon, Software Engineer from Ukraine. Stack: JavaScript, TypeScript, React, Next.js, Tailwind CSS, shadcn/ui, Node.js, NestJS, PostgreSQL, React Native, Expo, Electron, Docker, Vite, Git, Postman, Prettier, Oxlint, Husky" />
+  <img src="./assets/terminal-top.svg" width="100%" align="left" alt="Bohdan Shemyhon, Software Engineer from Ukraine. Stack: JavaScript, TypeScript, React, Next.js, Tailwind CSS, shadcn/ui, Node.js, NestJS, PostgreSQL, React Native, Expo, Electron, Docker, Vite, Git, Postman, Prettier, Oxlint, Husky, Claude Code (MCP, Skills, Subagents, Plugins), Cursor" />
   <a href="https://github.com/BohdanShh/pulse"><img src="./assets/terminal-pulse.svg" width="100%" align="left" alt="pulse: Uptime monitoring with a Telegram bot" /></a>
   <a href="https://github.com/BohdanShh/react-native-image-comparison"><img src="./assets/terminal-react-native-image-comparison.svg" width="100%" align="left" alt="react-native-image-comparison: Before/after slider for React Native (npm)" /></a>
   <a href="https://github.com/BohdanShh/pluck"><img src="./assets/terminal-pluck.svg" width="100%" align="left" alt="pluck: macOS utility to copy text from anywhere on screen" /></a>
